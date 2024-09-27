@@ -1,0 +1,349 @@
+{
+  "formValues": {
+    "isMOV": false,
+    "voucherCode": "teststaffel1230013490",
+    "voucherCodeSet": false,
+    "voucherType": "Brand Deal - Flat",
+    "voucherUsage": "- - ",
+    "jiraTicket": "",
+    "isProductDiscount": "",
+    "createdBy": "",
+    "isActiveLastModifiedBy": "",
+    "isActiveLastModifiedAt": "",
+    "lastModifiedBy": "",
+    "sortOrder": "0.20240927075647",
+    "validFrom": "2024-09-27T22:00:00.000Z",
+    "validUntil": "2024-09-28T21:59:00.000Z",
+    "type": "absolute",
+    "isActive": false,
+    "value": {
+      "permyriad": 0,
+      "money": {
+        "CHF": {
+          "amount": "",
+          "currencyCode": "CHF"
+        },
+        "EUR": {
+          "amount": "",
+          "currencyCode": "EUR"
+        }
+      }
+    },
+    "voucherDescription": {
+      "de-DE": "teststaffel123001ra",
+      "de-AT": "",
+      "pl-PL": "",
+      "fr-FR": "",
+      "de-CH": "",
+      "nl-NL": "",
+      "de-BE": "",
+      "nl-BE": "",
+      "fr-BE": ""
+    },
+    "productDiscountDescription": {
+      "de-CH": "teststaffel123001ra",
+      "fr-CH": "teststaffel123001ra",
+      "de-DE": "teststaffel123001ra"
+    },
+    "name": {
+      "de-DE": "test staffel 12366",
+      "de-AT": "",
+      "pl-PL": "",
+      "fr-FR": "",
+      "de-CH": "",
+      "nl-NL": "",
+      "de-BE": "",
+      "nl-BE": "",
+      "fr-BE": ""
+    },
+    "cartPredicate": {
+      "isEmpty": true
+    },
+    "isAppPlatform": false,
+    "goodieProductType": "a6e7692e-78ce-4ed8-911c-1b22d4f66859",
+    "discountCodeExtension": "7607262d-3c61-425d-b38e-ff1a99a2a737",
+    "brandCategories": {
+      "value": [
+        {
+          "label": "BYREDO",
+          "value": "47da01e0-f7b8-4c80-b248-153b77fef959",
+          "id": "47da01e0-f7b8-4c80-b248-153b77fef959"
+        },
+        {
+          "label": "CHANEL",
+          "value": "d0d37d60-e19a-4e75-b69e-6418f57bafeb",
+          "id": "d0d37d60-e19a-4e75-b69e-6418f57bafeb"
+        },
+        {
+          "label": "Clive Christian",
+          "value": "6ddfc0da-01fb-4753-bbe1-8a445a2a2161",
+          "id": "6ddfc0da-01fb-4753-bbe1-8a445a2a2161"
+        },
+        {
+          "label": "Creed",
+          "value": "a3d725b6-7146-4acf-9471-742fcbbf82c1",
+          "id": "a3d725b6-7146-4acf-9471-742fcbbf82c1"
+        },
+        {
+          "label": "DR. BARBARA STURM",
+          "value": "2e42d48a-0e1b-4d3f-aea3-e07a8969926e",
+          "id": "2e42d48a-0e1b-4d3f-aea3-e07a8969926e"
+        },
+        {
+          "label": "Emil Élise",
+          "value": "7fc54359-c538-4a6d-b15c-640e51de3463",
+          "id": "7fc54359-c538-4a6d-b15c-640e51de3463"
+        },
+        {
+          "label": "Initio",
+          "value": "b3420f5e-e7b6-4cc2-a752-ca18cd382d5c",
+          "id": "b3420f5e-e7b6-4cc2-a752-ca18cd382d5c"
+        },
+        {
+          "label": "Kevin.Murphy",
+          "value": "badf1f5d-ac42-4391-8091-63d44405c327",
+          "id": "badf1f5d-ac42-4391-8091-63d44405c327"
+        },
+        {
+          "label": "LES BAINS GUERBOIS",
+          "value": "494588cb-ce41-4fe3-9cd9-d0e6799b2706",
+          "id": "494588cb-ce41-4fe3-9cd9-d0e6799b2706"
+        },
+        {
+          "label": "Laboratorio Olfattivo",
+          "value": "1269b34a-bdd2-42ca-80cd-c7263f18b5cb",
+          "id": "1269b34a-bdd2-42ca-80cd-c7263f18b5cb"
+        },
+        {
+          "label": "Liquides Imaginaires",
+          "value": "fa6de09d-d639-4d25-a0d3-bc5a081b10f2",
+          "id": "fa6de09d-d639-4d25-a0d3-bc5a081b10f2"
+        },
+        {
+          "label": "Maison Francis Kurkdjian",
+          "value": "f85ba0f9-9d68-4e26-9e3f-9b44a9dbfb47",
+          "id": "f85ba0f9-9d68-4e26-9e3f-9b44a9dbfb47"
+        },
+        {
+          "label": "Maison Tahité",
+          "value": "a35c3c75-0487-488f-9590-dca3b81aa90a",
+          "id": "a35c3c75-0487-488f-9590-dca3b81aa90a"
+        },
+        {
+          "label": "Miller et Bertaux",
+          "value": "b54f2d33-b6c1-4deb-9ec9-83ac9b2249ad",
+          "id": "b54f2d33-b6c1-4deb-9ec9-83ac9b2249ad"
+        },
+        {
+          "label": "Parfums de Marly",
+          "value": "2100955c-0d77-403c-b688-d776a8859190",
+          "id": "2100955c-0d77-403c-b688-d776a8859190"
+        },
+        {
+          "label": "Roberto Ugolini",
+          "value": "85333776-3862-4a7c-b331-0b4d3ae8c28e",
+          "id": "85333776-3862-4a7c-b331-0b4d3ae8c28e"
+        },
+        {
+          "label": "Sensai",
+          "value": "74337656-c037-49b5-b880-bb239c062c4f",
+          "id": "74337656-c037-49b5-b880-bb239c062c4f"
+        },
+        {
+          "label": "XERJOFF",
+          "value": "e77f2980-dcbb-4459-abdd-c0238fbbddcc",
+          "id": "e77f2980-dcbb-4459-abdd-c0238fbbddcc"
+        },
+        {
+          "label": "dyson",
+          "value": "aaa5a3b5-383c-499f-8dbd-c51fbb7d4200",
+          "id": "aaa5a3b5-383c-499f-8dbd-c51fbb7d4200"
+        }
+      ],
+      "operator": "not in"
+    },
+    "skus": {
+      "operator": "not in",
+      "value": [
+        {
+          "label": "80033558-1",
+          "value": "80033558-1",
+          "id": "80033558-1"
+        },
+        {
+          "label": "80044995-1",
+          "value": "80044995-1",
+          "id": "80044995-1"
+        },
+        {
+          "label": "80072959-1",
+          "value": "80072959-1",
+          "id": "80072959-1"
+        },
+        {
+          "label": "90002987-0004364",
+          "value": "90002987-0004364",
+          "id": "90002987-0004364"
+        }
+      ]
+    },
+    "mov": {
+      "CHF": {
+        "amount": "",
+        "currencyCode": "CHF"
+      },
+      "EUR": {
+        "amount": "",
+        "currencyCode": "EUR"
+      }
+    },
+    "brandVoucherAbsolutePrices": [
+      {
+        "CHF": {
+          "amount": "1.00",
+          "currencyCode": "CHF"
+        },
+        "EUR": {
+          "amount": "1.00",
+          "currencyCode": "EUR"
+        }
+      },
+      {
+        "CHF": {
+          "amount": "2.00",
+          "currencyCode": "CHF"
+        },
+        "EUR": {
+          "amount": "2.00",
+          "currencyCode": "EUR"
+        }
+      }
+    ],
+    "brandVoucherRelativePrices": [
+      {
+        "value": 100
+      },
+      {
+        "value": 0
+      }
+    ],
+    "brandVoucherBrandCategories": [
+      {
+        "CHF": [{
+          "label": "BYREDO",
+          "value": "47da01e0-f7b8-4c80-b248-153b77fef959",
+          "id": "47da01e0-f7b8-4c80-b248-153b77fef959"
+        },
+        {
+          "label": "CHANEL",
+          "value": "d0d37d60-e19a-4e75-b69e-6418f57bafeb",
+          "id": "d0d37d60-e19a-4e75-b69e-6418f57bafeb"
+        }],
+        "EUR": [{
+          "label": "BYREDO",
+          "value": "47da01e0-f7b8-4c80-b248-153b77fef959",
+          "id": "47da01e0-f7b8-4c80-b248-153b77fef959"
+        },
+        {
+          "label": "CHANEL",
+          "value": "d0d37d60-e19a-4e75-b69e-6418f57bafeb",
+          "id": "d0d37d60-e19a-4e75-b69e-6418f57bafeb"
+        }]
+      },
+      {
+        "CHF": [{
+          "label": "DR. BARBARA STURM",
+          "value": "2e42d48a-0e1b-4d3f-aea3-e07a8969926e",
+          "id": "2e42d48a-0e1b-4d3f-aea3-e07a8969926e"
+        },
+        {
+          "label": "Sensai",
+          "value": "74337656-c037-49b5-b880-bb239c062c4f",
+          "id": "74337656-c037-49b5-b880-bb239c062c4f"
+        }],
+        "EUR": [{
+          "label": "DR. BARBARA STURM",
+          "value": "2e42d48a-0e1b-4d3f-aea3-e07a8969926e",
+          "id": "2e42d48a-0e1b-4d3f-aea3-e07a8969926e"
+        },
+        {
+          "label": "Sensai",
+          "value": "74337656-c037-49b5-b880-bb239c062c4f",
+          "id": "74337656-c037-49b5-b880-bb239c062c4f"
+        }]
+      }
+    ],
+    "stores": [
+      {
+        "label": "AT",
+        "id": "364c43f7-a442-4b28-b385-a4bc7f9f28ba",
+        "key": "at",
+        "checked": false
+      },
+      {
+        "label": "FR",
+        "id": "1b540aa4-58e1-44e3-8e87-c6681c049289",
+        "key": "fr",
+        "checked": false
+      },
+      {
+        "label": "PL",
+        "id": "222baa55-47c1-48a9-b28c-fe26129e624e",
+        "key": "pl",
+        "checked": false
+      },
+      {
+        "label": "CH",
+        "id": "ead76a91-3961-48da-8b13-f3e65eda73d5",
+        "key": "ch",
+        "checked": true
+      },
+      {
+        "label": "DE",
+        "id": "a212c161-eea0-4664-af5f-fb655309b212",
+        "key": "de",
+        "checked": true
+      },
+      {
+        "label": "BE",
+        "id": "a0c8d24d-4857-47a7-bdd0-1ad6e62e581e",
+        "key": "be",
+        "checked": false
+      },
+      {
+        "label": "NL",
+        "id": "f04dbafb-b09a-4912-8bd7-b3162414f74e",
+        "key": "nl",
+        "checked": false
+      }
+    ],
+    "languages": [
+      "de-DE",
+      "de-AT",
+      "pl-PL",
+      "fr-FR",
+      "de-CH",
+      "nl-NL",
+      "de-BE",
+      "nl-BE",
+      "fr-BE"
+    ],
+    "cartDiscounts": [],
+    "customerGroups": [
+      {
+        "key": "sem_idealo",
+        "label": "Idealo",
+        "value": "Idealo"
+      }
+    ],
+    "createProductDiscount": true,
+    "productDiscountIds": [],
+    "isLimitedRedemption": false,
+    "maxApplications": null,
+    "maxApplicationsPerCustomer": null
+  },
+  "actions": [
+    "CREATE"
+  ],
+  "createdBy": "6aa3f2f6-61a4-4c4b-b9a1-b781e1b202a1"
+}
